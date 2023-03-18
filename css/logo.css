@@ -1,0 +1,71 @@
+.logo img{
+        display: flex;
+        justify-content: center;
+        background-size: 20px 30px;
+        width: 90px;
+}
+.logo{
+        display: flex;
+        background-size: 20px 30px;
+}
+.texto{
+        padding-left: 125px;
+        margin-top: -80px;
+        font-family: 'Cousine', cursive;
+}
+
+.bloque{
+        font-family: 'Martian Mono', monospace;
+}
+.mensajecheck{
+        font-family: 'Scada', sans-serif;
+}
+.modooscuro{
+        padding-left: 1095px;
+        margin-top: -50px;
+}
+.body{
+        background-color: aqua;
+}
+.linea_humilde{
+        margin-top: 285px;
+    }
+    .socials{
+        width: 120px;
+        padding-left: 1115px;
+        margin-top: -140px; 
+    }
+    .status-text{
+        font-family: 'Scada', sans-serif;
+        margin-top: -340px; 
+        padding-left: 100px;
+    }
+    .socialstext-2{
+        font-family: 'Scada', sans-serif;
+        padding-left: 1000px;
+        margin-top: -100px; 
+    }
+    .text-socials{
+        font-family: 'Cousine', cursive;
+        padding-left: 1000px;
+        margin-top: 125px;
+    }
+    .credits{
+        padding-left: 500px;
+        margin-top: -170px; 
+        font-family: 'Cousine', cursive;
+    }
+    .linea2{
+        margin-top: 50px
+    }
+    .logo-footer img{
+        padding-left: 585px;
+        margin-top: 50px;
+        width: 70px;
+    }
+    .footer{
+        font-family: 'Scada', sans-serif;
+        margin-top: 170px;
+        padding-left: 100px;
+    }
+    
